@@ -7,3 +7,6 @@ Unlike traditional Unreal Engine samples, Project Titan is not solely focused on
 Designed to support a wide range of platforms, from mobile devices to high-end PCs, Project Titan features an expansive 8x8 km open-world map, a Mover-driven player character with diverse movement modes, and an array of plugins and world-building tools developed specifically for the art jam.
 
 https://www.unrealengine.com/news/the-project-titan-sample-game-is-now-available-explore-this-huge-open-world
+
+https://kitbash3d.com/pages/cargo
+
